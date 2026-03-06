@@ -2,6 +2,8 @@
 
 A simple, fast, and elegant personal expense tracker built with React and Vite. It lets you log your daily expenses, categorizes them, and tracks your total spending against a live currency conversion pull. 
 
+![Expense Tracker Dashboard](./images/Home%20Screen.png)
+
 I built this specifically to practice building a clean, modern UI from scratch without relying on heavy component libraries. All styling is pure CSS using a custom "slate light" glassmorphic aesthetic.
 
 ## Features
